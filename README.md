@@ -10,6 +10,6 @@ Actualmente estoy cursando la carrera Certified Tech Developer y tengo un gran i
                                                                                                                                          
 
 ### Contáctame
-![image](https://user-images.githubusercontent.com/97122665/148116505-6086f231-68d3-457d-9ea2-49b58591f6e8.png) mgmarchetti 
+![image](https://user-images.githubusercontent.com/97122665/148116505-6086f231-68d3-457d-9ea2-49b58591f6e8.png) mgmarchetti </br>
 :e-mail: marchettimg@gmail.com
 
