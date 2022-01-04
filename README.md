@@ -5,11 +5,11 @@ Actualmente estoy cursando la carrera Certified Tech Developer y tengo un gran i
 
 #### Estoy aprendiendo
 
- * ![alt text][1.4] HTML                                                                                                                                           
- * ![alt text][1.5] CSS                                
+ * ![image](https://user-images.githubusercontent.com/97122665/148116272-f7132d62-942b-4ae1-b54b-e318d2140545.png) HTML                                                                                                                                           
+ * ![image](https://user-images.githubusercontent.com/97122665/148116429-f58a8e9e-13da-4b4b-b39b-95b2cf377036.png) CSS                                
                                                                                                                                          
 
 ### Contáctame
-[![alt text][1.1]][1] mgmarchetti <br />
-[![alt text][1.2]][2] marchettimg@gmail.com <br />
+![image](https://user-images.githubusercontent.com/97122665/148116505-6086f231-68d3-457d-9ea2-49b58591f6e8.png) mgmarchetti 
+:e-mail: marchettimg@gmail.com
 
