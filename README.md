@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola!! :wave: Soy Guillermina Marchetti :smiley:
 
-<!--
-**Guillemarchetti/Guillemarchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora front-end trainee e ingeniera civil.
+Actualmente estoy cursando la carrera Certified Tech Developer y tengo un gran interes en aprender nuevas herramientas que me permitan insertarme en el mundo IT.
 
-Here are some ideas to get you started:
+#### Estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * ![alt text][1.4] HTML                                                                                                                                           
+ * ![alt text][1.5] CSS                                
+                                                                                                                                         
+
+### Contáctame
+[![alt text][1.1]][1] mgmarchetti <br />
+[![alt text][1.2]][2] marchettimg@gmail.com <br />
+
