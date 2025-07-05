@@ -1,20 +1,31 @@
-## Hola!! :wave: Soy Guillermina Marchetti :smiley:
+Hi there! 👋 I'm **Guillermina Marchetti**
 
-Soy estudiante de programación e ingeniera civil.
-Actualmente estoy cursando la carrera Certified Tech Developer y tengo un gran interés en aprender nuevas herramientas que me permitan insertarme en el mundo IT.
+🎓 I have a background in engineering with experience in **backend development**, **data analysis**, and **artificial intelligence**. I'm currently working on **AI Quality Assurance** projects, focusing on data validation and evaluating language models.
 
-#### Lenguajes que manejo
+🚀 I'm passionate about learning new technologies and currently focusing on **Python**, **Java**, **SQL**, and AI tools, with a strong interest in **data analysis**, **automation**, and building smart solutions.
 
- * ![image](https://user-images.githubusercontent.com/97122665/148116272-f7132d62-942b-4ae1-b54b-e318d2140545.png) HTML                                                                                                                                           
- * ![image](https://user-images.githubusercontent.com/97122665/148116429-f58a8e9e-13da-4b4b-b39b-95b2cf377036.png) CSS                                
-                                                                                                                                         
-#### Estoy aprendiendo
+---
 
-* JAVASCRIPT
-* SQL
+### 🛠️ Technologies & Tools I Use:
 
+* 🐍 **Python**
+* ☕ **Java**
+* 🗄️ **SQL**
+* 🌀 **Git**
+* ✨ Prompt Engineering
+* 📊 Data Analysis & Validation
 
-### Contáctame
-![image](https://user-images.githubusercontent.com/97122665/148116505-6086f231-68d3-457d-9ea2-49b58591f6e8.png) mgmarchetti </br>
-:e-mail: marchettimg@gmail.com
+---
 
+### 📚 Education:
+
+* 🎓 PhD in Engineering
+* 📑 Certifications in Python, SQL, Statistics, and Data Analysis
+* 🤖 Specialized courses in Applied Artificial Intelligence
+
+---
+
+### 📬 Get in Touch:
+
+* ✉️ **Email:** [marchettimg@gmail.com](mailto:marchettimg@gmail.com)
+* 🔗 **LinkedIn:** [mgmarchetti](https://www.linkedin.com/in/mgmarchetti)
