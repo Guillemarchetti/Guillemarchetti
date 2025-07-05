@@ -1,4 +1,4 @@
-Hi there! 👋 I'm **Guillermina Marchetti**
+## Hi there! 👋 I'm **Guillermina Marchetti**
 
 🎓 I have a background in engineering with experience in **backend development**, **data analysis**, and **artificial intelligence**. I'm currently working on **AI Quality Assurance** projects, focusing on data validation and evaluating language models.
 
